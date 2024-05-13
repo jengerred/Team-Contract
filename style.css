@@ -1,0 +1,40 @@
+body {
+    padding-right: 10vw;
+}
+
+h1 {
+   text-align: center;
+}
+
+.H2 {
+    padding-left: 10vw;
+}
+p{
+    padding-left: 14vw;
+}
+.blue {
+    color: blue;
+    padding-left: 13vw;
+}
+ul {
+    padding-left: 15vw;
+}
+.tab-li {
+    padding-left: 17vw;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px; 
+  
+  }
+  
+  .item {
+    font-weight: bold;
+    flex: 1; 
+    margin-left: 15vw;
+  }
+  hr {
+    margin-left: 15vw;
+    border-top: 2px solid #000;
+  }
